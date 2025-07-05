@@ -28,3 +28,5 @@ data/archive.zip
 inventory.db
 inventory.db-journal
 inventory.db/
+
+#You can add more files or directories to ignore here
