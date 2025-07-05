@@ -1,6 +1,4 @@
-#for vendor in vendors:
-#    vendor_summary = pd.read_sql_query(f"SELECT * FROM vendor_sale_summary WHERE VendorNumber = {vendor}", conn)
-#    print(vendor_summary)
+
 #for scheduling the repetative task duing data analysis python scripts are used
 import sqlite3
 import pandas as pd

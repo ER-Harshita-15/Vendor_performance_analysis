@@ -1,0 +1,3 @@
+As the data was too big I was unable to push it on git. 
+Hence i kindly request you to get it from kaggle.
+https://www.kaggle.com/datasets/vivekkumarkamat/vendor-performance-analysis
