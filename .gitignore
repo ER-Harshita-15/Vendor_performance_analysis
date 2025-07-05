@@ -16,3 +16,9 @@ __pycache__/
 # Data files - exclude CSV files but allow archive.zip
 data/*.csv
 data/**/*.csv
+data/begin_inventory.csv
+data/end_inventory.csv
+data/purchase_price.csv
+data/sales.csv
+data/vendor_invoice.csv
+data/purchases.csv
