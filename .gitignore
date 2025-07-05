@@ -1,0 +1,18 @@
+# Virtual environment
+vendor_venv/
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+#Large data file can't be pushed to git but i am giving it's zipped version
+# Data files - exclude CSV files but allow archive.zip
+data/*.csv
+data/**/*.csv
