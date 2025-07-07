@@ -3,7 +3,7 @@
 import sqlite3
 import pandas as pd
 import logging
-from Data_Ingestion.ingestion_file import ingest_db
+from ingestion_file import ingest_db
 
 logging.basicConfig(
     filename="logs/get_vendor_summary.log",
